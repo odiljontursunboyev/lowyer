@@ -1,0 +1,504 @@
+/* Bu erda minifiz ishlatilgan holat */
+Минимизированный вывод CSS
+.container,.ul1{align-items:center;display:flex}.cards,.container,.father,.head_logo,.parent,.ul1{display:flex}.ul1,.ull1{list-style:none}.container{justify-content:center;gap:550px}.ul1{gap:50px}.head_logo{align-items:center;gap:15px}.head_logo .logo{width:36px;height:36px}.head_nom{font-size:25px;font-family:sans-serif}.parent{justify-content:center;padding-left:50px;gap:-20px}.section_nom{font-size:90px;color:#094b72}.section_foto{width:549px;height:973px}.section_text{padding-left: 8px;}.section_div{padding-top:100px}.section_btn{width:190px;height:80px;background-color:#094b72;border-radius:8px;color:#fff; margin-left: 8px;}.karta_one,.karta_two{padding-left:40px;border-radius:10px;margin-top:50px}.section_text,.text4{font-size:24px}.father{justify-content:center;gap:200px}.cards{align-items:center}.karta_one{width:215px;height:253px;background-color:#fff;margin-bottom:39px}.karta_two{width:176px;height:253px;background-color:#fff;padding-right:40px;margin-bottom:90px}.karta_bir,.karta_three{width:220px;background-color:#fff;padding-left:30px;margin-left:20px;height:253px;border-radius:10px}.karta_three{margin-bottom:39px;margin-top:40px}.karta_bir{margin-bottom:90px;margin-top:65px}.section1{background-color:#f2f7ff;height:786px}.section1_nom{padding-top:50px}.nom1,.nom2{font-size:48px}.text22{font-size:20px; padding-left: 7px;}.main_card_card{display:flex;justify-content:center;gap:250px}.parent_div,.sum{display:flex;align-items:center}.main_card_1_about div{width:256px;height:253px;margin-right:30px;margin-bottom:28px}.main_card_2_about div{width:256px;height:253px;margin-right:30px;margin-left:30px;margin-bottom:26px}.main_card_about1,.main_card_about2,.main_card_about3,.main_card_about4{padding-left:20px;padding-top:20px;border-radius:10px;background-color:#fff}.num1,.text1{padding-left:52px;color:#fff}.button55,.text_div{text-align:center;border-radius:8px}.main_card_about1 p,.main_card_about2 p,.main_card_about3 p,.main_card_about4 p{color:var(--gray)}.main_card_about1,.main_card_about3{margin-top:70px}.kart{display:flex}.section2{background-color:#094b72}.some_nom,.some_txt{color:#fff;text-align:center}.num1{text-align:center}.sum{justify-content:center;gap:100px}.ota_div{padding:20px}.section3{background-color:#f2f7ff}.parent_div{justify-content:center;padding-bottom:70px;gap:70px}.foot_logo,.section4_ota{align-items:center;display:flex}.sarlavha{text-align:center;padding-top:40px}.text_div{background-color:#fff;padding:20px;margin-top:30px;width:480px;height:180px}.button55,.footer{background-color:#094b72}.section4{margin-top:20px;height:274px}.section4_ota{justify-content:center;gap:150px}.button55{display:flex;justify-content:center;gap:10px;width:160px;height:55px;color:#fff}.p1{padding-top:5px;padding-right:4px}.call{padding-top:10px}.rasm{width:250px;height:225px;border-radius:0 0 0 40px}.footer{margin-top:50px;height:502px}.foot_parent{display:flex;justify-content:center;gap:450px}.fooT_img{height:54px;width:54px}.foot_logo{padding-bottom:110px;gap:10px;color:#fff}.foot_malumot{display:flex;gap:50px;color:#fff;padding-top:80px}.ull1{font-size:16px;color:#fff}.li1{padding-top:15px}.foot_soz{padding-left:35px}.data{display:flex;align-items:center;justify-content:center;gap:800px;padding-top:110px}.foot_data{color:#fff}.det{font-size:14px}
+
+/* Bu esa minifier ishlatilmagan va Автопрефиксер ishlatilgan holat */
+
+
+.container{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 550px;
+}
+
+.ul1{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    gap: 50px;
+    list-style: none;
+}
+
+.head_logo{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    gap: 15px;
+}
+
+.head_logo .logo{
+    width: 36px;
+    height: 36px;
+}
+
+.head_nom{
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+
+
+
+.parent{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding-left: 50px;
+    gap: -20px;
+}
+
+.section_nom{
+    font-size: 90px;
+    color: #094B72;
+}
+
+
+.section_foto{
+    width: 549px;
+    height: 973px;
+}
+
+.section_div{
+    padding-top: 100px;
+}
+
+.section_btn{
+    width: 190px;
+    height: 80px;
+    background-color: #094B72;
+    border-radius: 8px;
+    color: white;
+}
+
+.section_text{
+    font-size: 24px;
+}
+
+
+
+
+
+
+.father{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 200px;
+}
+
+.cards{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+
+.karta_one{
+    border-radius: 10px;
+    width: 215px;
+    height: 253px;
+    background-color: white;
+    padding-left: 40px;
+    margin-bottom: 39px;
+    margin-top: 50px;
+}
+
+.karta_two{
+    padding-left: 40px;
+    border-radius: 10px;
+    width: 176px;
+    height: 253px;
+    background-color: white;
+    padding-right: 40px;
+    margin-bottom: 90px;
+    margin-top: 50px;
+}
+
+.karta_three{
+    border-radius: 10px;
+    width: 220px;
+    height: 253px;
+    background-color: white;
+    padding-left: 30px;
+    margin-bottom: 39px;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.karta_bir{
+    border-radius: 10px;
+    width: 220px;
+    height: 253px;
+    background-color: white;
+    padding-left: 30px;
+    margin-bottom: 90px;
+    margin-left: 20px;
+    margin-top: 65px;
+}
+
+
+
+
+.section1{
+    background-color: #F2F7FF;
+    height: 786px;
+}
+
+.section1_nom{
+    padding-top: 50px;
+}
+
+.nom2{
+    font-size: 48px;
+}
+
+.text22{
+    font-size: 20px;
+}
+
+.main_card_card{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 250px;
+}
+
+
+.main_card_1_about div{
+    width: 256px;
+    height: 253px;
+    margin-right: 30px;
+    margin-bottom:28px;
+}
+
+.main_card_2_about div{
+    width: 256px;
+    height: 253px;
+    margin-right: 30px;
+    margin-left:30px;
+    margin-bottom:26px;
+}
+
+.main_card_about1{
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.main_card_about2{
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.main_card_about3{
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.main_card_about4{
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.main_card_about1 p{
+    color: var(--gray);
+}
+
+.main_card_about2 p{
+    color: var(--gray);
+}
+
+.main_card_about3 p{
+    color: var(--gray);
+}
+
+.main_card_about4 p{
+    color: var(--gray);
+}
+
+.main_card_about1{
+    margin-top: 70px;
+}
+
+.main_card_about3{
+    margin-top: 70px;
+}
+
+.kart{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+
+
+.section2{
+    background-color: #094B72;
+}
+
+.some_nom{
+    color: white;
+    text-align: center;
+}
+
+.some_txt{
+    color: white;
+    text-align: center;
+}
+
+.num1{
+    color: white;
+    text-align: center;
+    padding-left: 52px;
+}
+
+.text1{
+    color: white;
+    padding-left: 52px;
+}
+
+.sum{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 100px;
+}
+
+.ota_div{
+    padding: 20px;
+}
+
+
+
+
+
+
+
+.section3{
+    background-color: #F2F7FF;
+}
+
+.parent_div{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    padding-bottom: 70px;
+    gap: 70px;
+}
+
+.sarlavha{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.text_div{
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    margin-top: 30px;
+    width: 480px;
+    height: 180px;
+    border-radius: 8px;
+}
+
+
+
+
+
+
+.section4{
+    margin-top: 20px;
+    height: 274px;
+}
+
+.section4_ota{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 150px;
+}
+
+.nom1{
+    font-size: 48px;
+}
+
+.text4{
+    font-size: 24px;
+}
+
+.button55{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    text-align: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 10px;
+    background-color: #094B72;
+    width: 160px;
+    height: 55px;
+    color: white;
+    border-radius: 8px;
+}
+
+.p1{
+    padding-top: 5px;
+    padding-right: 4px;
+}
+
+.call{
+    padding-top: 10px;
+}
+
+.rasm{
+    width: 250px;
+    height: 225px;
+    border-radius: 0px 0px 0px 40px;
+}
+
+
+
+
+
+
+.footer{
+    margin-top: 50px;
+    background-color: #094B72;
+    height: 502px;
+}
+
+.foot_parent{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 450px;
+}
+
+.fooT_img{
+    height: 54px;
+    width: 54px;
+}
+
+
+.foot_logo{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-bottom: 110px;
+    gap: 10px;
+    color: white;
+}
+
+.foot_malumot{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    gap: 50px;
+    color: white;
+    padding-top: 80px;
+}
+
+.ull1{
+    list-style: none;
+    font-size: 16px;
+    color: white;
+}
+
+.li1{
+    padding-top: 15px;
+}
+
+.foot_soz{
+    padding-left: 35px;
+}
+
+.data{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    gap: 800px;
+    padding-top: 110px;
+}
+
+.foot_data{
+    color: white;
+}
+
+.det{
+    font-size: 14px;
+}.example {
+    display: -ms-grid;
+    display: grid;
+    -webkit-transition: all .5s;
+    -o-transition: all .5s;
+    transition: all .5s;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    background: -webkit-gradient(linear, left top, left bottom, from(white), to(black));
+    background: -o-linear-gradient(top, white, black);
+    background: linear-gradient(to bottom, white, black);
+}
